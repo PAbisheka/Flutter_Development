@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "890312950915",
+    "project_id": "disney-flutter",
+    "storage_bucket": "disney-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890312950915:android:281c8ffcb4630106e9c7b6",
+        "android_client_info": {
+          "package_name": "com.example.disney_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890312950915-kbrcqdil432nd8ibqcjm4rkce52kk3ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18HnHppaIWyNOEvaPNSVtGlwgkVxW4M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890312950915-kbrcqdil432nd8ibqcjm4rkce52kk3ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890312950915-1upk1e08u7i1l8e0vjp9rie5k4pppd6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "n"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
